@@ -1,6 +1,6 @@
 # Fibonacci-Sequence_Recursion
 ## 專案簡介
-這是一個 ** C# WinForms 小專案**，用來計算 Fibonacci 數列，練習遞迴 + 記憶化。  
+這是一個 ** C# WinForms 小專案**，採用遞迴方式來計算 Fibonacci 數列。  
 
 ---
 
